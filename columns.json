@@ -1,0 +1,13 @@
+{
+  "columns": [
+    "mpg",
+    "cylinder",
+    "displacement",
+    "horsepower",
+    "weight",
+    "acceleration",
+    "model",
+    "origin",
+    "carname"
+  ]
+}
